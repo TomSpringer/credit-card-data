@@ -8,7 +8,7 @@
     "intro_apr": "N/A",
     "regular_apr": "Variable",
     "credit_needed": "No Credit History",
-    "image": "petal2_visa.png",
+    "image": "https://raw.githubusercontent.com/TomSpringer/credit-card-data/refs/heads/main/petal2.avif",
     "link": "https://www.creditkarma.com/credit-cards/student-cards"
   },
   {
@@ -20,7 +20,7 @@
     "intro_apr": "0% for 6 months on purchases",
     "regular_apr": "Variable",
     "credit_needed": "Limited Credit",
-    "image": "discover_it_student_chrome.png",
+    "image": "https://raw.githubusercontent.com/TomSpringer/credit-card-data/refs/heads/main/DiscoverItChrome.avif",
     "link": "https://www.creditkarma.com/credit-cards/student-cards"
   },
   {
@@ -32,7 +32,7 @@
     "intro_apr": "0% for 12 billing cycles on purchases",
     "regular_apr": "Variable",
     "credit_needed": "Good Credit",
-    "image": "boa_travel_rewards_student.png",
+    "image": "https://raw.githubusercontent.com/TomSpringer/credit-card-data/refs/heads/main/BofAStudentTravel.avif",
     "link": "https://www.creditkarma.com/credit-cards/student-cards"
   },
   {
@@ -44,7 +44,7 @@
     "intro_apr": "0% for 15 billing cycles on purchases",
     "regular_apr": "Variable",
     "credit_needed": "Good Credit",
-    "image": "boa_unlimited_cash_rewards_student.png",
+    "image": "https://raw.githubusercontent.com/TomSpringer/credit-card-data/refs/heads/main/BofAStudent.avif",
     "link": "https://www.creditkarma.com/credit-cards/student-cards"
   },
   {
@@ -56,7 +56,7 @@
     "intro_apr": "0% for 6 months on purchases",
     "regular_apr": "Variable",
     "credit_needed": "Limited Credit",
-    "image": "discover_it_student_cash_back.png",
+    "image": "https://raw.githubusercontent.com/TomSpringer/credit-card-data/refs/heads/main/DiscoverItStudent.avif",
     "link": "https://www.creditkarma.com/credit-cards/student-cards"
   }
 ]
