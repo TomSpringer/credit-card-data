@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Petal® 2 Visa® Credit Card",
+    "category": "Rewards with No Credit History",
+    "annual_fee": "$0",
+    "rewards_rate": "1% - 10% cash back",
+    "welcome_bonus": "None",
+    "intro_apr": "N/A",
+    "regular_apr": "Variable",
+    "credit_needed": "No Credit History",
+    "image": "petal2_visa.png",
+    "link": "https://www.creditkarma.com/credit-cards/student-cards"
+  },
+  {
+    "name": "Discover it® Student Chrome",
+    "category": "Commuter Students",
+    "annual_fee": "$0",
+    "rewards_rate": "2% cash back at Gas Stations and Restaurants on up to $1,000 in combined purchases each quarter; 1% on all other purchases",
+    "welcome_bonus": "Unlimited Cashback Match – Discover will automatically match all the cash back you've earned at the end of your first year",
+    "intro_apr": "0% for 6 months on purchases",
+    "regular_apr": "Variable",
+    "credit_needed": "Limited Credit",
+    "image": "discover_it_student_chrome.png",
+    "link": "https://www.creditkarma.com/credit-cards/student-cards"
+  },
+  {
+    "name": "Bank of America® Travel Rewards credit card for Students",
+    "category": "Students Who Fly",
+    "annual_fee": "$0",
+    "rewards_rate": "1.5 points per dollar on all purchases",
+    "welcome_bonus": "25,000 online bonus points after making at least $1,000 in purchases in the first 90 days of account opening",
+    "intro_apr": "0% for 12 billing cycles on purchases",
+    "regular_apr": "Variable",
+    "credit_needed": "Good Credit",
+    "image": "boa_travel_rewards_student.png",
+    "link": "https://www.creditkarma.com/credit-cards/student-cards"
+  },
+  {
+    "name": "Bank of America® Unlimited Cash Rewards credit card for Students",
+    "category": "Simple Cash Back",
+    "annual_fee": "$0",
+    "rewards_rate": "1.5% cash back on all purchases",
+    "welcome_bonus": "$200 online cash rewards bonus after making at least $1,000 in purchases in the first 90 days of account opening",
+    "intro_apr": "0% for 15 billing cycles on purchases",
+    "regular_apr": "Variable",
+    "credit_needed": "Good Credit",
+    "image": "boa_unlimited_cash_rewards_student.png",
+    "link": "https://www.creditkarma.com/credit-cards/student-cards"
+  },
+  {
+    "name": "Discover it® Student Cash Back",
+    "category": "Rotating Cash Back Categories",
+    "annual_fee": "$0",
+    "rewards_rate": "5% cash back on everyday purchases at different places each quarter like Amazon.com, grocery stores, restaurants, gas stations, and when you pay using PayPal, up to the quarterly maximum when you activate; 1% on all other purchases",
+    "welcome_bonus": "Unlimited Cashback Match – Discover will automatically match all the cash back you've earned at the end of your first year",
+    "intro_apr": "0% for 6 months on purchases",
+    "regular_apr": "Variable",
+    "credit_needed": "Limited Credit",
+    "image": "discover_it_student_cash_back.png",
+    "link": "https://www.creditkarma.com/credit-cards/student-cards"
+  }
+]
